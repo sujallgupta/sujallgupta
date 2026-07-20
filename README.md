@@ -2,12 +2,13 @@
 
 # Hi 👋, I'm Sujal Gupta
 
-### Backend Engineer • Full Stack Developer • AI/ML Enthusiast
+### Backend Engineer • Machine Learning Engineer • Full Stack Developer
 
-Building scalable backend systems, intelligent applications, and developer tools.
+Building software that combines solid engineering with intelligent systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujallgupta)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujal.04g@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/14zP9tVy1qgiIvmFEimtmyVS-1MkbimBe/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujallgupta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujal.04g@gmail.com)
 
 </div>
 
@@ -15,11 +16,11 @@ Building scalable backend systems, intelligent applications, and developer tools
 
 # 💫 About Me
 
-I'm a software developer who enjoys building things that solve real problems and understanding how modern software works beneath the surface. My interests lie in backend engineering, full-stack development, artificial intelligence, and distributed systems.
+I'm a software developer who enjoys building things and understanding how they work. My interests include backend engineering, machine learning, and full stack development. I like designing systems, training machine learning models, and building applications from scratch.
 
-I enjoy designing APIs, building scalable applications, exploring Retrieval-Augmented Generation (RAG), AI agents, and experimenting with new technologies through hands-on projects. For me, the best way to learn is by building, improving, and continuously challenging myself.
+I learn by building. Whether it's a backend service, a machine learning project, or a new technology, every project teaches me something new and helps me become a better engineer.
 
-Outside of coding, you'll usually find me reading about system architecture, exploring open-source projects, or experimenting with new ideas just to see how far I can take them. If you're interested in any of those topics, I'd be happy to chat over a cup of tea. ☕
+Outside of coding, you'll usually find me reading about system architecture, exploring open-source projects, or experimenting with new ideas just to see where they lead. If you're interested in any of those topics, I'd be happy to chat over a cup of tea. ☕
 
 ---
 
